@@ -15,4 +15,4 @@ To be honest, I actually not really like fully understand it for now. like no fr
 And that is it for the day 1, I will try to do more research and ask AI to help me understand and improve the design for my portfolio
 platform.
 
-Day 2:
+Day 2
